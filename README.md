@@ -12,8 +12,6 @@
   <a href="https://www.smart-agent.eu.cc/">官方网站</a>
   ·
   <a href="https://platform.smart-agent.eu.cc/">开放平台</a>
-  ·
-  <a href="https://github.com/LingZiYue-coder/smart-agent-client-macos/actions/workflows/build-dmg.yml">下载构建产物</a>
 </p>
 
 ---
